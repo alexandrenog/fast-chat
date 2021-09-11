@@ -1,0 +1,11 @@
+.list-container{
+  border-radius: 10px;
+  background-color: rgb(60, 53, 88);
+  margin: 6px;
+  color: white;
+  padding: 4px 4px 4px 12px
+}
+.new-chat-message{
+  text-align: center;
+  margin: 2px;
+}
